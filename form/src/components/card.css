@@ -1,0 +1,13 @@
+.title
+{
+   background: black;
+  border-style: groove;
+  border-color: black;
+  color: lightblue !important
+}
+.border 
+{
+   border-style: groove;
+}
+
+
